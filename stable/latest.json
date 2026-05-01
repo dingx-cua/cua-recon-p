@@ -1,8 +1,8 @@
 {
-  "version": "2026.04.22.22",
-  "download_url": "https://raw.githubusercontent.com/dingx-cua/cua-recon-p/main/releases/2026.04.22.22/CUAReconLauncherOnefile.exe",
-  "sha256": "ab8114fde7034aa5d192a19828b217af3360de45e2a7831f1adc51dcafe62b68",
-  "published_at": "2026-04-22T14:59:22.196038+00:00",
-  "notes_url": "https://github.com/dingx-cua/cua-recon-p/tree/main/releases/2026.04.22.22",
-  "commit": "eda2e05c593fd6a70823626506e8d56b474cf234"
+  "version": "2026.05.01.23",
+  "download_url": "https://raw.githubusercontent.com/dingx-cua/cua-recon-p/main/releases/2026.05.01.23/CUAReconLauncherOnefile.exe",
+  "sha256": "beb8e4fbdb6bf02d0cace0676bbf751ac518f809f002ebdf2a8e3fe0f14b8e50",
+  "published_at": "2026-05-01T01:38:29.843209+00:00",
+  "notes_url": "https://github.com/dingx-cua/cua-recon-p/tree/main/releases/2026.05.01.23",
+  "commit": "20fcbe2717fd6477ae9bf923d7b2af21188e2720"
 }
